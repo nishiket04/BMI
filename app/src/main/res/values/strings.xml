@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name" translatable="false">BMI</string>
+    <string name="welcome" translatable="false">Welcome to my app</string>
+    <string name="we" translatable="false">Weight (kg)</string>
+    <string name="hi" translatable="false">Height (cm)</string>
+    <string name="cal" translatable="false">Calculate</string>
+</resources>
